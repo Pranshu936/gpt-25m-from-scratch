@@ -9,4 +9,5 @@ This project builds a 25M parameter GPT model from scratch, inspired by Andrej K
 - Deploy with a simple interface
 
 ## Status
-Phase 0 - Setup
+Status: Completed Phase 4.2 (Embeddings working)
+Next: Attention mechanism

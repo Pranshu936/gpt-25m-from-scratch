@@ -1,0 +1,5 @@
+
+hello world
+this is a test dataset
+gpt models learn patterns in text
+machine learning is fun
